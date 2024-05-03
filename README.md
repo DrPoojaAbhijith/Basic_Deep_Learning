@@ -1,4 +1,4 @@
-# Basic_Deep_Learning
+# Basic_Neural_Network
 
 ## Task 1 :
 
